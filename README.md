@@ -2,7 +2,7 @@
 
 ```docker compose up -d```
 
-Copiar el ```.env.template``` y renombrarlo a ```.env```
+Copy the ```.env.template``` and rename it to ```.env```
 
 ## Description
 
