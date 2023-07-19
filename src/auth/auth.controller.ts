@@ -16,7 +16,7 @@ import { AuthGuard } from './guards/auth.guard';
 import { LoginResponse } from './interfaces/login-response';
 import { User } from './entities/user.entity';
 
-@Controller('auth')
+  @Controller('auth')
 export class AuthController {
   constructor(private readonly authService: AuthService) {}
 
